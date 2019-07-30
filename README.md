@@ -1,7 +1,8 @@
 # app_trainning
 testing
 
-hello
+hello---world
+
 
 哈哈
 我是新加的
